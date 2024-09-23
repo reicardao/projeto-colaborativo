@@ -1,2 +1,2 @@
-# projeto-colaborativo
-Repositório para praticar colaboração no GitHub
+# projeto colaborativo
+ricardo oliveira, finalista do curso de comunicação audiovisual e multimédia
